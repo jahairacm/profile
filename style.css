@@ -1,0 +1,65 @@
+body {
+  font-family:'Slabo 27px', serif;
+  text-align: center;
+  /*background:*/
+  color: #575F7D;
+  background-color: #6BA8A9;
+  /*background-image: url(/images/cloud.png);*/
+}
+
+/*h1 {
+  color: red;
+  text-align: center;
+  font-weight: 100;
+  letter-spacing: 5px;
+  font-size: 40px;
+  color: #575F7D;
+}*/
+
+
+h2 {
+  /*color: ;*/
+  text-align: center;
+  font-weight: 100;
+  letter-spacing: 5px;
+  font-size: 30px;
+  color: #575F7D;
+
+}
+
+
+p {
+  text-align: center;
+  color: #575F7D;
+  font-size: 20px
+}
+
+title {
+  text-align: center;
+}
+
+a {
+  color: red;
+}
+
+.container {
+  background-color: white;
+  width: 700px;   /* This sets the width */
+  margin: 100 auto;
+  background: white;                         /* White background */
+  padding: 30px;                             /* Internal space */
+  border-radius: 4px;                        /* Small radius */
+  /*box-shadow: 0 10px 30px rgba(0,0,0,.1);*/
+}
+
+
+
+
+.card {
+  background-color: #E3F6F5;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  /*border: 2px solid red;*/
+}
+
+
+
